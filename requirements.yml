@@ -1,2 +1,4 @@
-- src: ansiblebit.pip
+- src: git@github.com:Silencerco/ansible-pip.git
+  scm: git
+  name: Silencerco.pip
   version: 2.0.0
