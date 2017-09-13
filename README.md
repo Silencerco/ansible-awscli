@@ -1,11 +1,11 @@
 # awscli
 
-[![License](https://img.shields.io/badge/license-New%20BSD-blue.svg?style=flat)](https://raw.githubusercontent.com/saucelabs-ansible/awscli/master/LICENSE)
-[![Build Status](https://travis-ci.org/saucelabs-ansible/awscli.svg?branch=master)](https://travis-ci.org/saucelabs-ansible/awscli)
+[![License](https://img.shields.io/badge/license-New%20BSD-blue.svg?style=flat)](https://raw.githubusercontent.com/Silencerco/ansible-awscli/master/LICENSE)
+[![Build Status](https://travis-ci.org/Silencerco/ansible-awscli.svg?branch=master)](https://travis-ci.org/Silencerco/ansible-awscli)
 
 [![Platform](http://img.shields.io/badge/platform-ubuntu-dd4814.svg?style=flat)](#)
 
-[![Project Stats](https://www.openhub.net/p/saucelabs-ansible-awscli/widgets/project_thin_badge.gif)](https://www.openhub.net/p/saucelabs-ansible-awscli/)
+[![Project Stats](https://www.openhub.net/p/Silencerco-ansible-awscli/widgets/project_thin_badge.gif)](https://www.openhub.net/p/Silencerco-ansible-awscli/)
 
 Ansible role to install the [AWS command line interface](http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html) and
 configure the credentials and profiles.
@@ -42,7 +42,7 @@ in `defaults/main.yml`.
 
 ## Dependencies
 
-- [saucelabs-ansible.pip](https://github.com/saucelabs-ansible/pip)
+- [Silencerco.pip](https://github.com/Silencerco/ansible-pip)
 
 
 ## Playbooks
