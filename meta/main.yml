@@ -6,13 +6,14 @@
 galaxy_info:
   author: Pedro Salgado
   description: Role to setup the AWS command line interface.
-  company: saucelabs.com
+  company: silencerco.com
   license: BSD
   min_ansible_version: 1.9.4
   platforms:
     - name: Ubuntu
       versions:
         - trusty
+        - xenial
   galaxy_tags:
     - amazon
     - cloud
