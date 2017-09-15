@@ -18,6 +18,7 @@ install:
   - pip install tox
 
 script:
+  - bash -c "cd .. && mv ansible-awscli awscli && ln -s awscli ansible-awscli"
   - tox
 
 notifications:
